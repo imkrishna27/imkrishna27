@@ -10,6 +10,4 @@
 - 🤔 I’m looking for help with React.js
 - 💬 Ask me about Data Structures
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
