@@ -2,7 +2,7 @@
 
 
 - 🤔 I’m looking for Entry level job as MERN Developer or SDE Role.
-- :books: I've persuing my Postgraduation from Harcourt Butler Technical University.
+- :books: I am persuing my Postgraduation from Harcourt Butler Technical University.
 - 🔭 I’m currently working on MERN Development. 
 - 🌱 I’m currently learning React.js. 
 - 💬 Ask me about Data Structures and Algorithm .
