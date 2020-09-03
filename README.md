@@ -5,7 +5,7 @@
 - :books: I am persuing my Postgraduation from Harcourt Butler Technical University.
 - 🔭 I’m currently working on MERN Development. 
 - 🌱 I’m currently learning React.js. 
-- 💬 Ask me about Data Structures and Algorithm .
+- 💬 Ask me about Data Structures and Algorithms .
 - 📫 How to reach me: [LinkedIn - @hari-krishna27](https://www.linkedin.com/in/hari-krishna27/)
 - :page_facing_up: Certifications: Machine Learning and Python .
 
