@@ -9,4 +9,4 @@
 - 📫 How to reach me: [LinkedIn - @hari-krishna27](https://www.linkedin.com/in/hari-krishna27/)
 - :page_facing_up: Certifications: Machine Learning and Python .
 
-[![Pushpendra's github stats](https://github-readme-stats.vercel.app/api?username=imkrishna27)](https://github.com/imkrishna27/github-readme-stats)
+![Hari Krishna's github stats](https://github-readme-stats.vercel.app/api?username=imkrishna27&show_icons=true&theme=dracula)
